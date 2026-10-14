@@ -8,7 +8,7 @@ class  Dog{
    }
 }
 
-public class ExampleOfObject {
+class ExampleOfObject {
   public static void main() {
 
     Dog d1 = new Dog();

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class InputClass {
   
-  static int inputNumber(){
+ public  static int inputNumber(){
 
     Scanner input = new Scanner(System.in);
 

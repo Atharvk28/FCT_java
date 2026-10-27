@@ -1,0 +1,34 @@
+Inheritance-
+    -Instead of rewriting the same code in multiple places we allow child class
+        to reuse the parent properties and methods.
+
+   # Types of Inheritance-
+            1.Single Inheritance
+                -single parent, single child.
+            2.Multiple Inheritance
+                -multiple parents, single child.
+            3.Hierarchical Inheritance
+                -single parent, multiple childs.
+            4.Multilevel Inheritance
+                -single parent, single child, single grand-child.
+
+       @ Advantages-
+            -reusability
+            -polymoriphism
+            -Scalability
+            -Maintainability
+
+
+
+
+
+
+
+
+
+
+
+
+    # Other Names:
+        -'parent class' is also called as "Base class".
+        -'Child class' is also called as "Derived class".

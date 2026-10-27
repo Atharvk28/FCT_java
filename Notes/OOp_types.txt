@@ -1,0 +1,18 @@
+#Class
+#Object
+#
+
+
+
+
+# inheritances
+    1.
+
+#polymoriphism
+    1.
+
+#abstraction
+    1.
+
+#encapsulation
+    1.

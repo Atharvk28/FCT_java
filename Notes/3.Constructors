@@ -1,0 +1,34 @@
+Constructors-
+        -a constructor is special block that has same name as class and runs
+            automatically when we create an object using new keyword.
+        -it has no return type
+        -same name as class name
+        - called automatically when object is created
+      -Types
+          1.Default Constructor
+                -constructor without parameter.
+                -if you don't create any, java automatically create one.
+          2.Parameterized constructor
+                -it accept parameters to set the values.
+          3.copy constructor
+                -java does not provide build_in copy constructors like c++.
+                -we create it manually.
+                -if we change the value from copy constructor it doesn't change value
+                    of copied constructor.
+syntax-
+     1.Default constructor
+
+            className(){
+              //body of constructor
+            }
+     2.parameterized constructor
+
+            className(int name,...(parameters...)){
+                // body of constructor
+            }
+     3.Copy constructor
+
+            className(constructor_name instance_name){
+            this.variable-name = instance_name;
+
+            }

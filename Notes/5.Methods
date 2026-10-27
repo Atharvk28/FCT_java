@@ -1,0 +1,40 @@
+
+ ##Methods-
+         -A block of code that does a specific work or task.
+         -method is name set of instructions that we can call whenever needed.
+         -Abstraction not possible without method.
+         -Polymorphism not possible without method.
+
+     Advantages-
+        -code become reusable.
+        -code become modular.
+        -Easy to read.
+        -Easy to test.
+        -Easy to maintain.
+
+Types of methods-
+        1.predefined method
+                    -already available methods
+                    -eg. System.out.println();
+                    -eg. main method
+
+        2.build-in method(User defined method)
+                    -method created by programmer.
+                    -eg. void additionOfNumbers();
+
+             * types-
+                    1.method with return type
+                    2.method without return type
+                    3.method with parameters
+                    4.method without parameters
+                    5.static method
+#static keyword -
+            -when we put static in front of something(variables, methods, classes) it
+                means this belongs to the class not to an object.
+            -it will have only one copy in a memory(only one copy means
+                that member exists in a memory regardless of how many objects of the
+                class we create.)
+
+
+#Instance method -
+            -An every method declared without static keyword is called instance method.

@@ -1,0 +1,28 @@
+Access Modifiers -
+    -access modifiers defines the visibility and the accessibility of the classes and methods
+        other members.
+    -they determine where these members can be accessed within the code.
+
+Need -
+        1.security- restrict unwanted access
+        2.encapsulation - hide internal data
+        3.controlled access - give access only where required.
+        4.clean design - avoid miss use of variables and methods.
+
+types -
+        1.Public
+        2.Private
+        3.Protected
+        4.Default
+
+1.Public -
+        -accessible from every where means same class, package, different class, method, package
+
+2.Private
+        - accessible only same inside class.
+        -
+3.Protected -
+            - accessible in same package as well as different subClasses.
+
+4.Default -
+            - accessible only within the same package.

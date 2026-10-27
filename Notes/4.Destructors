@@ -1,0 +1,11 @@
+
+Destructor-
+        -destructor is a special method that is called automatically when an object
+            is destroyed.
+        -it is used to clean up resources when the object is no longer needed.
+        - java does not have destructors like other languages.
+
+
+Q.what replaces the destrucotrs in java?
+- finlize method
+-finlize methid called by garbage collector before an object is removed from memory.

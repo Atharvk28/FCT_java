@@ -1,0 +1,38 @@
+## Class-
+    definition- "class consist of state ans the behaviour of an object."
+        - it encapsulate data and method in a single unit.
+        - class doesn't alocate memory until an object is created.
+        - an object can not exist without class but class can exist
+           without any object.
+
+
+properties = state = attributes
+methods = behaviour of object
+
+## advantages of OOP
+- easy to reuse code
+- hide complex details
+- parent child relationship
+- one method many uses
+- simplify complex system
+- DRY = do not repeat yourself
+
+## disadvantages of OOP
+- slower performance
+- overcomplicating simple task
+- hard to learn
+- wastage of memory
+
+
+   -------------- Questions----------------
+
+Q.why class doesn't alocate memory
+-- because it is a compile time entity, it is stored on metadata.
+
+Q.which applications can be made using OOP
+-netBanking
+-HRMS - human resource management system
+- e-commerce applications
+-
+
+

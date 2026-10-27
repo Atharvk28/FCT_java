@@ -1,0 +1,13 @@
+Polymorphism -
+            -polymorphism means same method can act differently
+                depending on running object.
+
+Types -
+        1.Compile time (Method Overloading)
+        2.runtime (Method OverRiding)
+
+1.Method Overloading -
+            -same method name,same class but different method signature(parameters,type,method name)
+                [return type  is not a part of method signature.]
+
+

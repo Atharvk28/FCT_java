@@ -1,0 +1,27 @@
+Encapsulation-
+    -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class bankAcc, 
+private balance,accountholderName, 
+method deposit, withdraw
+needed getterSetter
+constructors

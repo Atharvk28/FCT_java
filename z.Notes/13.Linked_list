@@ -1,0 +1,9 @@
+Linked List-
+
+
+    Where is data is stored in nodes.
+    each node contains reference of next node.
+
+
+        -
+        -No shifting needed.

@@ -1,0 +1,20 @@
+HashMap-
+    - It is class in java that stores data in key value pairs.
+    
+
+When we use- 
+        -when we need fast data access. (it is mostly used in backend for APIs.)
+        -in HashMap we can easy lookup using keys.
+        -No need to look like ArrayList.
+
+
+HashSet-
+        -it is Collection that stores only unique values.
+        -in HashSet order is not maintained.
+        -it is good at performance.
+        -it is used when we need unique values and no need to maintain the order and want best performance.
+
+
+        ########## Note-
+        Hashing is technique to convert data into a fixed number. so that we can store and retrive data fast.
+        here fixed number is Hashcode.

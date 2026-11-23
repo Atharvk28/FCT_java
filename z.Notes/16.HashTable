@@ -1,0 +1,10 @@
+HashTable-
+    -Hash table uses the key value pair to store the data.
+
+    Advantages-
+          -thread safe
+          -easy and simple
+
+    disadvantages-
+          -slow
+          -no null values.

@@ -1,0 +1,9 @@
+#-Vectors - 
+        -Vector is a dynamic array but it is thread safe.
+        -it is a part of collection framework.
+        -it is used when data is more imortant than performance.
+        
+
+Syntax - 
+
+                Vector<generic> v-name = new Vector <>();

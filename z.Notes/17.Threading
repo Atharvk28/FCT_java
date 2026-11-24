@@ -1,0 +1,22 @@
+What is process- 
+              -process is a program in execution that contains one or more threads. 
+              -a process is a program that currently executing(running).
+              -eg. chrome browser, spotify, etc.
+
+What is Thread - 
+              - thread is a small unit of execution inside a process.
+              -eg. chrome tabs,  
+
+MultiThreading - 
+              -MultiThreading means running multiple tasks at the same time inside a one program
+              -eg. mobile phone 
+
+        use cases- 
+                web applications
+                web servers
+
+
+to perform the MultiThreading the method name must be run, we can not change/ use another name for method 
+to execute it with different method.
+
+

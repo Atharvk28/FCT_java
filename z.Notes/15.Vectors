@@ -6,4 +6,4 @@
 
 Syntax - 
 
-                Vector<generic> v-name = new Vector <>();
+                // Vector<generic> v-name = new Vector <>();
